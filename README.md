@@ -2,7 +2,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=anjansatu&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-## Hey  There I'm Sudipto Biswas 
+## Hey  There I'm Anjan Roy
 <p align="left">
   <a href="https://www.linkedin.com/anjansatu"><img alt="Linkedin" title="Anjan Roy Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/anjansatu"><img alt="Github" title="Anjan Roy Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -100,7 +100,7 @@ In addition to my technical skills, I am also a strong communicator and collabor
 
 <p align="center" style="background">
   <a href="https://github.com/anjansatu">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipto0079&theme=radical&border=7F3FBF&background=0D1117" alt="Sudipto GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipto0079&theme=radical&border=7F3FBF&background=0D1117" alt=" Anjan GitHub streak"/>
   </a>
 </p>
 
@@ -117,6 +117,6 @@ In addition to my technical skills, I am also a strong communicator and collabor
 </a>
 
 
-![Al Sudipto Graph](https://github-readme-activity-graph.vercel.app/graph?username=anjansatu&custom_title=%20Sudipto%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Al  Anjan Graph](https://github-readme-activity-graph.vercel.app/graph?username=anjansatu&custom_title=%20 Anjan%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
